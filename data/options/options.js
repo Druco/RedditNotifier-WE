@@ -47,5 +47,11 @@ var options = [
 			"title": "Check for unread messages and replies?",
 			"type": "bool",
 			"value": false
+		},
+		{
+			"name": "invertIcon",
+			"title": "Use dark theme icon?",
+			"type": "bool",
+			"value": false
 		}
 ];
