@@ -16,6 +16,10 @@ This addon is written with the Firefox [WebExtensions API](https://developer.moz
 - Doesn't store login credentials. Just log into reddit like you normally would.
 - Customizable refresh time (10 seconds to infinity).
 
+## CAUTION
+
+This add-on DOES NOT work if Firefox built-in "Tracking Protection" (under Preference->Privacy & Security) is turned on. I don't know any way around this so it is unlikely to be fixed.
+
 ## Development
 
 Install web-ext
